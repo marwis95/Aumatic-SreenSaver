@@ -1,0 +1,18 @@
+[Setup]
+AppName=AumaticScreenSaver
+AppVersion=1.0
+AppPublisher=Aumatic Sp. z o.o.
+CreateAppDir=no
+Compression=lzma2
+SolidCompression=yes
+OutputDir=Output
+OutputBaseFilename=ScreenSaver_setup
+WizardImageFile=background.bmp
+
+[Languages]
+Name: "english"; MessagesFile: "compiler:Default.isl"
+Name: "polish"; MessagesFile: "compiler:Languages\Polish.isl"
+
+[Files]
+Source: "..\AumaticScreenSaver\bin\AumaticScreenSaver.scr"; DestDir: "{win}"; Flags: ignoreversion
+Source: "background.bmp"; Flags: dontcopy

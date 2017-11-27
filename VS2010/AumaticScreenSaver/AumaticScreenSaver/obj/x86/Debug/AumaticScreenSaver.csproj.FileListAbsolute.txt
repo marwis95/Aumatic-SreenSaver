@@ -1,0 +1,19 @@
+c:\documents and settings\administrator\moje dokumenty\visual studio 2010\Projects\AumaticScreenSaver\AumaticScreenSaver\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\administrator\moje dokumenty\visual studio 2010\Projects\AumaticScreenSaver\AumaticScreenSaver\obj\x86\Debug\AumaticScreenSaver.Properties.Resources.resources
+c:\documents and settings\administrator\moje dokumenty\visual studio 2010\Projects\AumaticScreenSaver\AumaticScreenSaver\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\administrator\moje dokumenty\visual studio 2010\Projects\AumaticScreenSaver\AumaticScreenSaver\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\administrator\moje dokumenty\visual studio 2010\Projects\AumaticScreenSaver\AumaticScreenSaver\bin\Debug\AumaticScreenSaver.exe
+c:\documents and settings\administrator\moje dokumenty\visual studio 2010\Projects\AumaticScreenSaver\AumaticScreenSaver\bin\Debug\AumaticScreenSaver.pdb
+c:\documents and settings\administrator\moje dokumenty\visual studio 2010\Projects\AumaticScreenSaver\AumaticScreenSaver\obj\x86\Debug\AumaticScreenSaver.exe
+c:\documents and settings\administrator\moje dokumenty\visual studio 2010\Projects\AumaticScreenSaver\AumaticScreenSaver\obj\x86\Debug\AumaticScreenSaver.pdb
+c:\documents and settings\administrator\moje dokumenty\visual studio 2010\Projects\AumaticScreenSaver\AumaticScreenSaver\obj\x86\Debug\AumaticScreenSaver.ScreenSaverForm.resources
+c:\documents and settings\administrator\moje dokumenty\visual studio 2010\Projects\AumaticScreenSaver\AumaticScreenSaver\obj\x86\Debug\AumaticScreenSaver.TransparentyForm.resources
+C:\Users\plc\Desktop\ScreenSaver_aumatic_final\VS2010\AumaticScreenSaver\AumaticScreenSaver\obj\x86\Debug\AumaticScreenSaver.exe
+C:\Users\plc\Desktop\ScreenSaver_aumatic_final\VS2010\AumaticScreenSaver\AumaticScreenSaver\obj\x86\Debug\AumaticScreenSaver.pdb
+C:\Users\plc\Desktop\ScreenSaver_aumatic_final\VS2010\AumaticScreenSaver\AumaticScreenSaver\bin\Debug\AumaticScreenSaver.exe
+C:\Users\plc\Desktop\ScreenSaver_aumatic_final\VS2010\AumaticScreenSaver\AumaticScreenSaver\bin\Debug\AumaticScreenSaver.pdb
+C:\Users\plc\Desktop\ScreenSaver_aumatic_final\VS2010\AumaticScreenSaver\AumaticScreenSaver\obj\x86\Debug\AumaticScreenSaver.TransparentyForm.resources
+C:\Users\plc\Desktop\ScreenSaver_aumatic_final\VS2010\AumaticScreenSaver\AumaticScreenSaver\obj\x86\Debug\AumaticScreenSaver.Properties.Resources.resources
+C:\Users\plc\Desktop\ScreenSaver_aumatic_final\VS2010\AumaticScreenSaver\AumaticScreenSaver\obj\x86\Debug\AumaticScreenSaver.ScreenSaverForm.resources
+C:\Users\plc\Desktop\ScreenSaver_aumatic_final\VS2010\AumaticScreenSaver\AumaticScreenSaver\obj\x86\Debug\AumaticScreenSaver.csproj.GenerateResource.Cache
+C:\Users\plc\Desktop\ScreenSaver_aumatic_final\VS2010\AumaticScreenSaver\AumaticScreenSaver\obj\x86\Debug\AumaticScreenSaver.Setting.resources
